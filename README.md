@@ -1,24 +1,33 @@
-<h1>Hey, I'm Neo! <br/><a href="https://github.com/joshmadakor1">UTM Data Engineer First Year Undergraduate</a></h1>
+<h1>Hey, I'm Neo!👦 Welcome to my Portfolio!<br/></a></h1>
+<strong>👨‍💻UTM Data Engineer First Year Undergraduate <br/>
+🤓 Still Learning How to Code Like a Pro <br/>
+😆 Study Hard! Fightingg! 💪
 
-<h2>👨‍💻 Recent Projects:</h2>
+<h2> <p><b>Recent Projects: </b></p></h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Technology Information System (TIS) Course Projects</b>
+  - [Design Thinking Project](https://github.com/Yatib/Design-Thinking-TIS02_2023/projects?query=is%3Aopen)
+- <b>LinkedIn Projects</b>
+  - [Data Engineer Career Development Poster](https://www.linkedin.com/feed/update/urn:li:activity:7127652278987038720/)</b></i>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2><p><b>Hard Skills I'm Improving</b></p></h2>
+<ul>
+    <li><b>Fast Typing</b></li>
+    <ul>
+        <li><b><a href="https://monkeytype.com/account">MonkeyType    <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/logo-svg/dark_note.svg" alt="MonkeyType Logo" width="20" height="15">
+ </a></b></li>
+    </ul>
+</ul>
+<ul>
+    <li><b>Language</b></li>
+    <ul>
+        <li><b>DevC++   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="20" height="23">
+ </a></b></li>
+</ul>
+
+
+
+<h2>✨ C++ Source Code Practices I Did✨</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
