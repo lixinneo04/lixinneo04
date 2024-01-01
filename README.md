@@ -10,30 +10,32 @@
 - <b>LinkedIn Projects</b>
   - [Data Engineer Career Development Poster](https://www.linkedin.com/feed/update/urn:li:activity:7127652278987038720/)</b></i>
 
-<h2><p><b>Hard Skills I'm Improving</b></p></h2>
+<h2><p><b>✨ Hard Skills I'm Improving ✨ </b></p></h2>
 <ul>
-    <li><b>Fast Typing</b></li>
+    <li><b>   <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/logo-svg/dark_note.svg" alt="MonkeyType Logo" width="20" height="15"> Fast Typing</b></li>
     <ul>
-        <li><b><a href="https://monkeytype.com/account">MonkeyType    <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/logo-svg/dark_note.svg" alt="MonkeyType Logo" width="20" height="15">
+        <li><b><a href="https://monkeytype.com/account">MonkeyType 
  </a></b></li>
     </ul>
 </ul>
 <ul>
-    <li><b>Language</b></li>
-    <ul>
-        <li><b>DevC++   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="20" height="23">
- </a></b></li>
+    <li><b>💻Coding </b>
+        <ul>
+            <li><b>C++</b></li>
+            <li><b>HTML</b></li>
+        </ul>
+    </li>
+</ul>
+<ul>
+    <li><b>🎥 Video Editing </b>
+        <ul>
+             <li><b><a href="https://capcut.com/account">Capcut </li>
+        </ul>
+    </li>
 </ul>
 
 
 
-<h2>✨ C++ Source Code Practices I Did✨</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
