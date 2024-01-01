@@ -10,6 +10,8 @@
 - <b>LinkedIn Projects</b>
   - [Data Engineer Career Development Poster](https://www.linkedin.com/feed/update/urn:li:activity:7127652278987038720/)</b></i>
 
+  Currently focusing on finals...
+
 <h2><p><b>✨ Hard Skills I'm Improving ✨ </b></p></h2>
 <ul>
     <li><b>   <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/logo-svg/dark_note.svg" alt="MonkeyType Logo" width="20" height="15"> Fast Typing</b></li>
@@ -35,19 +37,15 @@
 </ul>
 
 
+<h2> 🔔 You can find me on:</h2>
 
+[<img align="left" alt="JoshMadakor | Facebook" width="22px" src="https://github.com/lixinneo04/lixinneo04/assets/147371899/13bea0e2-637e-40a7-977c-d26ce350d15e" />][facebook]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://github.com/lixinneo04/lixinneo04/assets/147371899/704e02d3-42b3-4f1b-a9f8-a7257529f963" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />][instagram]
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[facebook]: https://twitter.com/joshmadakor
+[instagram]: https://www.instagram.com/jasonneo_04
+[linkedin]: https://linkedin.com/in/neo-li-xin
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
