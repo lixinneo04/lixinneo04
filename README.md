@@ -1,5 +1,5 @@
 <h1>Hey, I'm Neo!👦 Welcome to my Portfolio!<br/></a></h1>
-<strong>👨‍💻UTM Data Engineer First Year Undergraduate <br/>
+👨‍💻UTM Data Engineer First Year Undergraduate <br/>
 🤓 Still Learning How to Code Like a Pro <br/>
 😆 Study Hard! Fightingg! 💪
 
@@ -10,7 +10,7 @@
 - <b>LinkedIn Projects</b>
   - [Data Engineer Career Development Poster](https://www.linkedin.com/feed/update/urn:li:activity:7127652278987038720/)</b></i>
 
-  Currently focusing on finals...
+  <p><b>Currently focusing on finals...</b></p>
 
 <h2><p><b>✨ Hard Skills I'm Improving ✨ </b></p></h2>
 <ul>
@@ -45,7 +45,7 @@
 
 [facebook]: https://facebook.com/neo.lixin
 [instagram]: https://www.instagram.com/jasonneo_04
-[linkedin]: (https://www.linkedin.com/in/neo-li-xin-074322240/)
+[linkedin]: (https://www.linkedin.com/in/neo-li-xin)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
