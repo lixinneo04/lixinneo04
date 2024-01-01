@@ -39,13 +39,13 @@
 
 <h2> 🔔 You can find me on:</h2>
 
-[<img align="left" alt="JoshMadakor | Facebook" width="22px" src="https://github.com/lixinneo04/lixinneo04/assets/147371899/13bea0e2-637e-40a7-977c-d26ce350d15e" />][facebook]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://github.com/lixinneo04/lixinneo04/assets/147371899/704e02d3-42b3-4f1b-a9f8-a7257529f963" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />][instagram]
+[<img align="left" alt="NeoLiXin | Facebook" width="22px" src="https://github.com/lixinneo04/lixinneo04/assets/147371899/13bea0e2-637e-40a7-977c-d26ce350d15e" />][facebook]
+[<img align="left" alt="NeoLiXin | LinkedIn" width="22px" src="https://github.com/lixinneo04/lixinneo04/assets/147371899/704e02d3-42b3-4f1b-a9f8-a7257529f963" />][linkedin]
+[<img align="left" alt="NeoLiXin | Instagram" width="22px" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" />][instagram]
 
-[facebook]: https://twitter.com/joshmadakor
+[facebook]: https://facebook.com/neo.lixin
 [instagram]: https://www.instagram.com/jasonneo_04
-[linkedin]: https://linkedin.com/in/neo-li-xin
+[linkedin]: (https://www.linkedin.com/in/neo-li-xin-074322240/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
