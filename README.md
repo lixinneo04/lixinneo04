@@ -12,6 +12,7 @@
 
 - <b>Industry Talk and Industry Visit</b>
   - [Data Engineer Career Development Poster(ASSIGNMENT 1)](https://www.linkedin.com/feed/update/urn:li:activity:7127652278987038720/)</b></i>
+  - [UTM Digital Tour Experience Video(ASSIGNMENT 4)](https://www.linkedin.com/feed/update/urn:li:activity:7153267704605401088/)
   - <b> [Other Assignments Refer Here (TIS Project)](Course/TIS)
 - <b>PC Assemble</b>
 - <b>Design Thinking Project</b>
