@@ -1,16 +1,24 @@
 <h1>Hey, I'm Neo!👦 Welcome to my Portfolio!<br/></a></h1>
 👨‍💻UTM Data Engineer First Year Undergraduate <br/>
-🤓 Still Learning How to Code Like a Pro <br/>
-😆 Study Hard! Fightingg! 💪
+🤓 Currently Improving My Coding Skills<br/>
+😆 Don't Stop Learning! 💪
 
-<h2> <p><b>Recent Projects: </b></p></h2>
+<h2><p><b>📜Certificates </b></p></h2>
+- <b>SPM (8As)</b>
+- <b>MUET (4.0)</b>
+- <b>UTM Foundation Program 2022/2023 (3.93)</b>
 
-- <b>Technology Information System (TIS) Course Projects</b>
-  - [Design Thinking Project](https://github.com/Yatib/Design-Thinking-TIS02_2023/projects?query=is%3Aopen)
-- <b>LinkedIn Projects</b>
+<h2> <p><b>Technology Information System (TIS) Course Projects: </b></p></h2>
+
+- <b>Industry Talk and Industry Visit</b>
   - [Data Engineer Career Development Poster](https://www.linkedin.com/feed/update/urn:li:activity:7127652278987038720/)</b></i>
+  - [Petronas and Huawei](file:///C:/Users/cocog/Downloads/G4%20TIS%20Industrial%20Visit%20PETRONAS%20&%20HUAWEI%20.pdf)
+  - [UTM Digital]
+- <b>PC Assemble</b>
+- <b>Design Thinking Project</b>
+  - [Design Thinking](https://github.com/Yatib/Design-Thinking-TIS02_2023/projects?query=is%3Aopen)</b></i>
 
-  <p><b>Currently focusing on finals...</b></p>
+  <p><b>Currently focusing on my finals...</b></p>
 
 <h2><p><b>✨ Hard Skills I'm Improving ✨ </b></p></h2>
 <ul>
