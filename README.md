@@ -8,9 +8,9 @@ I've been learning multiple Computer Science subjects throughout my university j
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [neolixin@gmail.com](mailto:neolixin@gmail.com)
-* 🧠  I'm currently learning AI and Machine Learning
-* 👥  I'm looking to collaborate on any Fun & Interactive Game Projects
-* 💬  Ask me about I'm actually bad at programming. Please don't tell anyone.
+* 🧠  Interested in learning AI and Machine Learning
+* 👥  Looking to collaborate on any Fun & Interactive Game Projects
+* 💬  I'm actually bad at programming. Please don't tell anyone.
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
