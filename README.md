@@ -1,5 +1,5 @@
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" />
- My name is Neo Li Xin
+ I'm Neo Li Xin
 ===================================================================================================================================
 
 UTM 3rd Year Data Engineering Undergraduate
@@ -7,10 +7,10 @@ UTM 3rd Year Data Engineering Undergraduate
 
 I've been learning different Computer Science courses throughout my university journey. Currently passionate about exploring more about AI and Machine Learning.
 
-* 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [neolixin@gmail.com](mailto:neolixin@gmail.com)
-* 🧠  Interested in learning AI and Machine Learning
-* 👥  Looking to collaborate on any Fun & Interactive Game Projects
+* 🌍  I'm based in Malaysia.
+* ✉️  You can contact me at [neolixin@gmail.com](mailto:neolixin@gmail.com).
+* 🧠  Interested in learning AI and Machine Learning.
+* 👥  Looking to collaborate on any Fun & Interactive Game Projects.
 * 💬  I'm actually bad at programming. Please don't tell anyone.
 
 ## 📊 Github Stats:
