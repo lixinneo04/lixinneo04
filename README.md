@@ -5,7 +5,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 UTM 3rd Year Data Engineering Undergraduate
 -------------------------------------------
 
-I've been learning multiple Computer Science subjects throughout my university journey. Currently passionate about exploring more about AI and Machine Learning.
+I've been learning different Computer Science courses throughout my university journey. Currently passionate about exploring more about AI and Machine Learning.
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [neolixin@gmail.com](mailto:neolixin@gmail.com)
