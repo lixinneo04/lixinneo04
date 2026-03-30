@@ -11,7 +11,6 @@ I've been learning different Computer Science courses throughout my university j
 * ✉️  You can contact me at [neolixin@gmail.com](mailto:neolixin@gmail.com).
 * 🧠  Interested in learning AI and Machine Learning.
 * 👥  Looking to collaborate on any Fun & Interactive Game Projects.
-* 💬  I'm actually bad at programming. Please don't tell anyone.
 
 ## 📊 Github Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lixinneo04&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
